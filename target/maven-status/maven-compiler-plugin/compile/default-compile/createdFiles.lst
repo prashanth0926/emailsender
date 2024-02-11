@@ -1,0 +1,4 @@
+com/remote/emailsender/EmailRequest.class
+com/remote/emailsender/EmailService.class
+com/remote/emailsender/EmailController.class
+com/remote/emailsender/EmailsenderApplication.class
